@@ -2,6 +2,8 @@
 
 This is a simple Memory Game built using React and styled with TailwindCSS. The game challenges players to find matching pairs of cards from a grid by clicking to reveal them, testing memory skills.
 
+![Screenshot Description](./gameplay.png)
+
 ## Features
 
 - **Responsive design** using TailwindCSS.
