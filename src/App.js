@@ -95,6 +95,27 @@ function App() {
         </div>
         <Leaderboard leaderboard={leaderboard} />
       </div>
+      <p class="text-center text-gray-600 mt-4">
+        Checkout the code for this game on&nbsp;
+        <a
+          href="https://github.com/surendias/memory-game"
+          target="_blank"
+          rel="noreferrer"
+          class="text-blue-500 hover:text-blue-700 font-semibold"
+        >
+          Github
+        </a>
+        &nbsp;| Built by&nbsp;
+        <a
+          href="https://surendias.com"
+          target="_blank"
+          rel="noreferrer"
+          class="text-blue-500 hover:text-blue-700 font-semibold"
+        >
+          Suren Dias
+        </a>
+        &nbsp;just for Fun 🎉 in 2024
+      </p>
     </div>
   );
 }
