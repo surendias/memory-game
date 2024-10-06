@@ -2,6 +2,8 @@
 
 This is a simple Memory Game built using React and styled with TailwindCSS. The game challenges players to find matching pairs of cards from a grid by clicking to reveal them, testing memory skills.
 
+**DEMO**: Check out the live demo of the Memory Game [here](https://memory-game-051024.netlify.app/).
+
 ![Screenshot Description](./gameplay.png)
 
 ## Features
